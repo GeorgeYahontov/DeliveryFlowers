@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_179e64ca6739a408c08d05288ea27ae5ca916ac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_47e8d04047a60bc23fae794e583e1b39c47574ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_45f5d595d7daf75dcdc8403d224248fa774a3944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_da4febe4cb91d741a8f6e87c76ca96e060d6bbba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7d59dea4cbbbd438d122b4d88f3f4a061dfadb6">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ed9d359042fd987b3f30ba3e50cc1d8c0e07cff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_90bc203a01d7d21e0ed42caa3f8c7f098e2c5080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_4324d519d34c6e48d830b569c1756c6081a6b062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_18e6fcc6485fecbf76b8f569d34805701ef27401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_65801ed8cc3dec6bdb13333366fdae38980baf4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_9cee209575d4912e7b9333ecca81ea50bf3e66bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_69266230301348e8a73ff5374dd8949cf0327fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_f313d30d2a00309e0a8c8c58e8ee6d7d7d7ff873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_34f38cdf82bef868ca94687e48afb58f0911748a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_6f655fd41a79e5ad9db33a5a5e3eb564019244a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IQGAME\FlowersDelivery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3944a7d55c2cafd341ae734de2230eb69af1fdef">
+        <dex dex="D:\IQGAME\FlowersDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d5da905282bc1c35a0a9594dfe7e85138e78b95d\classes.dex" />
+    </item>
+
+</items>
